@@ -1,6 +1,6 @@
 # Introduction
 - 👋 Hi, I’m Cute Olaf!
-Welcome to my GitHub profile! I am a passionate developer with expertise in a wide range of technologies and a strong background in DevOps. My goal is to create impactful and innovative solutions using the latest tech stacks and best practices.
+Welcome to my GitHub profile! I am a passionate Fullstack Developer with expertise in a wide range of technologies and a strong background in DevOps. My goal is to create impactful and innovative solutions using the latest tech stacks and best practices.
 
 # Tech Stacks
 - 👀 I’m interested in latest technologies and feel energy and motivation with them! 😁
@@ -8,10 +8,13 @@ Welcome to my GitHub profile! I am a passionate developer with expertise in a wi
 I specialize in the following technologies:
 
 ### Frontend
-> JavaScript, React, Angular, Vue, Next.js, Nuxt.js, React Native
+> HTML, CSS, SCSS, Tailwindcss, JavaScript, React, Angular, Vue, Next.js, Nuxt.js, React Native
 
 ### Backend
 > Java, Java Spring Boot, PHP, Laravel, Nest.js
+
+### Database
+> Sqlite, MySQL, PostgreSQL, Redis, Mongodb, Graph database
 
 ### DevOps
 > Git, Slack, CI/CD
