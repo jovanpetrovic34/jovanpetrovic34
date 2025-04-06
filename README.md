@@ -31,7 +31,7 @@ I am open to collaboration and always eager to learn and explore new technologie
 - 💞️ I’m looking to collaborate on business proejct integrating with AI to improve business process and enhance the quality. 
 
 # Get in Touch
-I am open to remote opportunities and collaboration. Feel free to reach out to me via email at [your_email_here] or connect with me on LinkedIn.
+I am open to remote opportunities and collaboration. Feel free to reach out to me via email at jovan.petrovic34@outlook.com.
 Let's build something amazing together!
 
 <!---
